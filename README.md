@@ -1,10 +1,25 @@
 # One_Health_OneTube
-Scripts and data for IAV onetube analysis paper ("One Health in one tube: Optimising the workflow for whole genome sequencing of Influenza A viruses of human, swine, and avian origin")
+
+This repository contains the scripts and concatenated metadata files used in the paper:
+
+**"One Health in one tube: Optimising the workflow for whole genome sequencing of Influenza A viruses of human, swine, and avian origin"**
 
 
 ## Data
+The repository includes the following concatenated metadata files used to compare sequencing outputs:
 
+- `OT1_OT2_OT5_gel_scores.txt`
+- `READ_COUNTS_all.txt`
+- `coverage_all.txt.zip`
+- `mapping_stats_all.txt`
+- `passing_segments_all.txt`
+- `sample_cts.txt`
 
 
 ## Scripts
-Raw sequencing reads were processed using the IRMA v.1.0.2 pipeline (Shepard SS, Meno S, Bahl J, Wilson MM, Barnes J, Neuhaus E. Viral deep sequencing needs an adaptive approach: IRMA, the iterative refinement meta-assembler. BMC Genomics 2016;17:708. https://doi.org/10.1186/s12864-016-3030-6). 
+
+#### IRMA Processing & Metadata Extraction:
+Scripts to run [IRMA v1.0.2](https://doi.org/10.1186/s12864-016-3030-6) on raw sequencing data, extract metadata ([IRMA_postprocessing repository](https://github.com/marciux18/IRMA_postprocessing/tree/main)) and concatenate output from each sample.
+
+#### Figure Generation
+R scripts for plotting figures used in the paper.
