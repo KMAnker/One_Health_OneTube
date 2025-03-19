@@ -2,7 +2,7 @@
 
 This repository contains the scripts and concatenated metadata files used in the paper:
 
-**"One Health in one tube: Optimising the workflow for whole genome sequencing of Influenza A viruses of human, swine, and avian origin"**
+_Anker, K.M., Krog, J.S., Ciucani, M.M. and Trebbien, R._**"One Health in one tube: Optimising the workflow for whole genome sequencing of Influenza A viruses of human, swine, and avian origin"**, 2025
 
 
 ## Data
@@ -19,7 +19,7 @@ The repository includes the following concatenated metadata files used to compar
 ## Scripts
 
 #### IRMA Processing & Metadata Extraction:
-Scripts to run [IRMA v1.0.2](https://doi.org/10.1186/s12864-016-3030-6) on raw sequencing data, extract metadata ([IRMA_postprocessing repository](https://github.com/marciux18/IRMA_postprocessing/tree/main)) and concatenate output from each sample.
+Scripts to run [IRMA v1.0.2](https://doi.org/10.1186/s12864-016-3030-6) on raw sequencing data, extract metadata ([IRMA_postprocessing repository](https://github.com/marciux18/IRMA_postprocessing/tree/main)) and concatenate results from each sample.
 
 #### Figure Generation
 R scripts for plotting figures used in the paper.
