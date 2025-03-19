@@ -1,6 +1,6 @@
 # One_Health_OneTube
 
-This repository contains the scripts and concatenated metadata files used in the paper:
+This repository contains scripts and concatenated metadata files used in the paper:
 
 _Anker, K.M., Krog, J.S., Ciucani, M.M. and Trebbien, R._**"One Health in one tube: Optimising the workflow for whole genome sequencing of Influenza A viruses of human, swine, and avian origin"**, 2025
 
