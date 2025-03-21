@@ -19,7 +19,7 @@ The repository includes the following concatenated metadata files used to compar
 ## Scripts
 
 #### IRMA Processing & Metadata Extraction:
-Scripts to run [IRMA v1.0.2](https://doi.org/10.1186/s12864-016-3030-6) on raw sequencing data, extract metadata ([IRMA_postprocessing repository](https://github.com/marciux18/IRMA_postprocessing/tree/main)) and concatenate results from each sample.
+Scripts to run [IRMA](https://doi.org/10.1186/s12864-016-3030-6) on raw sequencing data, extract metadata ([IRMA_postprocessing repository](https://github.com/marciux18/IRMA_postprocessing/tree/main)) and concatenate results from each sample.
 
 #### Figure Generation
 R scripts for plotting figures used in the paper.
